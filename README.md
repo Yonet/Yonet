@@ -9,8 +9,14 @@
   - **Twitter**: https://twitter.com/AysSomething
   - **Reddit**: https://www.reddit.com/r/LearnXR/
   - Youtube **XR Developer** Channel: [www.youtube.com/c/XRDeveloper](https://www.youtube.com/c/XRDeveloper)
+  
+  [![Eye and Hand Interactions for HoloLens 2](http://img.youtube.com/vi/0FedjmMriSA/0.jpg)](https://www.youtube.com/watch?v=/0FedjmMriSA)
+  
   - Youtube **WebXR** Channel: [bit.ly/WebXRYoutube](https://www.youtube.com/channel/UCNzjXKJVyqYVyPY8rGKwFtQ)
   - YouTube **AysSomething** Channel: [bit.ly/AysSomething](https://www.youtube.com/channel/UCeo_soIgcgBSd3SVRbs_MPQ)
+  
+  [![How to debug WebXR on Chrome Dev Tools Tutorial](http://img.youtube.com/vi/r-wSk24Wmpk/0.jpg)](https://www.youtube.com/watch?v=r-wSk24Wmpk)
+  
   - **Instagram**: https://www.instagram.com/ayssomething/
   - **Slides**: https://slides.com/aysegulyonet
 - 😄 Pronouns: **She/Her** or **They/Them** are both great options!
