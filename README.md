@@ -10,8 +10,9 @@
   - **Reddit**: https://www.reddit.com/r/LearnXR/
   - Youtube **XR Developer** Channel: [www.youtube.com/c/XRDeveloper](https://www.youtube.com/c/XRDeveloper)
   
-  [![Eye and Hand Interactions for HoloLens 2](http://img.youtube.com/vi/0FedjmMriSA/0.jpg)](https://www.youtube.com/watch?v=/0FedjmMriSA)
+  [![Eye and Hand Interactions for HoloLens 2](http://img.youtube.com/vi/0FedjmMriSA/0.jpg)](https://www.youtube.com/watch?v=0FedjmMriSA)
   
+ 
   - Youtube **WebXR** Channel: [bit.ly/WebXRYoutube](https://www.youtube.com/channel/UCNzjXKJVyqYVyPY8rGKwFtQ)
   - YouTube **AysSomething** Channel: [bit.ly/AysSomething](https://www.youtube.com/channel/UCeo_soIgcgBSd3SVRbs_MPQ)
   
