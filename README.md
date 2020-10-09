@@ -2,7 +2,7 @@
 
 Check out Designing Holograms App(HoloLens 2) to learn Mixed Reality basics: [aka.ms/DesigningHolograms](https://www.microsoft.com/en-us/p/designing-holograms/9nxwnjklrzwd?rtc=2&WT.mc_id=spatial-0000-ayyonet)
 | [![Head Tracking on HoloLens](/images/headTracking.gif)](https://docs.microsoft.com/windows/mixed-reality/design/gaze-and-commit-eyes?WT.mc_id=aiml-0000-ayyonet) | [![Designing Holograms Menu](/images/mainMenu.gif)](https://www.microsoft.com/en-us/p/designing-holograms/9nxwnjklrzwd?rtc=2&WT.mc_id=spatial-0000-ayyonet) | [![Field of View](/images/FOV.gif)](https://docs.microsoft.com/windows/mixed-reality/design/spatial-mapping?WT.mc_id=aiml-0000-ayyonet) |
-|:-- |:-- |:-- | :-- |
+|:-- |:-- |:-- | 
 
 - 🔭 I’m currently working on Microsoft Azure as a Senior Developer Advocate, focusing on [**Cognitive Services**](https://docs.microsoft.com/azure/cognitive-services/?WT.mc_id=aiml-0000-ayyonet) and [**Spatial Computing**](https://docs.microsoft.com/windows/mixed-reality/develop/development?tabs=unity&WT.mc_id=spatial-0000-ayyonet) 
 - 🌱 I’m currently learning [Unreal Engine HoloLens 2](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unreal/unreal-development-overview?WT.mc_id=spatial-6125-ayyonet) 
