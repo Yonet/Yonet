@@ -13,7 +13,7 @@ Check out Designing Holograms App(HoloLens 2) to learn Mixed Reality basics: [ak
 - 📫 How to reach me: You can find me on most social media as [@AysSomething](https://twitter.com/AysSomething) or [@Yonet](https://dev.to/yonet)
 
   - **Twitter**: https://twitter.com/AysSomething
-  - **Reddit**: https://www.reddit.com/r/LearnXR/
+  - **Reddit**: https://www.reddit.com/r/Azure_AI_Cognitive/ and https://www.reddit.com/r/LearnXR/
   - Youtube **XR Developer** Channel: [www.youtube.com/c/XRDeveloper](https://www.youtube.com/c/XRDeveloper)
 
   [![Eye and Hand Interactions for HoloLens 2](http://img.youtube.com/vi/0FedjmMriSA/0.jpg)](https://www.youtube.com/watch?v=0FedjmMriSA)
