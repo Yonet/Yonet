@@ -13,6 +13,7 @@ Check out Designing Holograms App(HoloLens 2) to learn Mixed Reality basics: [ak
 - 📫 How to reach me: You can find me on most social media as [@AysSomething](https://twitter.com/AysSomething) or [@Yonet](https://dev.to/yonet)
 
   - **Twitter**: https://twitter.com/AysSomething
+  - **Medium**: https://medium.com/@aysegulyonet
   - **Reddit**: https://www.reddit.com/r/Azure_AI_Cognitive/ and https://www.reddit.com/r/LearnXR/
   - Youtube **XR Developer** Channel: [www.youtube.com/c/XRDeveloper](https://www.youtube.com/c/XRDeveloper)
 
@@ -27,7 +28,7 @@ Check out Designing Holograms App(HoloLens 2) to learn Mixed Reality basics: [ak
   [![Azure Custom Vision App to detect VR Headsets, HoloLens and Magic Leap](http://img.youtube.com/vi/VXD5ma2ZExw/0.jpg)](https://www.youtube.com/watch?v=VXD5ma2ZExw)
   
   [![Blog post: How to Create a No Code AI App with Azure Cognitive Services and Power Apps](/images/NoCodeAI.png)](https://medium.com/microsoftazure/no-code-ai-app-with-azure-cognitive-services-custom-vision-and-power-apps-ca47c019dcd0)
-  - **Medium**: https://medium.com/@aysegulyonet
+
   - **Instagram**: https://www.instagram.com/ayssomething/
   - **Slides**: https://slides.com/aysegulyonet
 
