@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Join [WebXR Meetups](https://www.meetup.com/Web-VR/) 
+Join [WebXR Meetups](https://www.meetup.com/Web-VR/) and catch up on previous [workshop videos](https://youtube.com/playlist?list=PLW2iP2Rz9wsK_zzciO54t3vc5yIpxO1Jb).
 
 [![WebXR Meetup Live Stream: Creating WebXR transportation game with A-Frame](/images/workshop-01.gif)](https://youtube.com/playlist?list=PLW2iP2Rz9wsK_zzciO54t3vc5yIpxO1Jb)
 
