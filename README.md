@@ -21,17 +21,17 @@ Check out Designing Holograms App(HoloLens 2) to learn Mixed Reality basics: [ak
     [![Blog post: How to Create a No Code AI App with Azure Cognitive Services and Power Apps](/images/noCodeAI.gif)](https://medium.com/microsoftazure/no-code-ai-app-with-azure-cognitive-services-custom-vision-and-power-apps-ca47c019dcd0)
 
   - **Reddit**: https://www.reddit.com/r/Azure_AI_Cognitive/ and https://www.reddit.com/r/LearnXR/
-  - Youtube **XR Developer** Channel: [www.youtube.com/c/XRDeveloper](https://www.youtube.com/c/XRDeveloper)
+  - Youtube **XR Developer** Channel: [www.youtube.com/XRDeveloper](https://www.youtube.com/c/XRDeveloper)
 
   [![Eye and Hand Interactions for HoloLens 2](http://img.youtube.com/vi/0FedjmMriSA/0.jpg)](https://www.youtube.com/watch?v=0FedjmMriSA)
 
-  - Youtube **WebXR** Channel: [https://www.youtube.com/c/WebXR](https://www.youtube.com/c/WebXR)
+  - Youtube **WebXR** Channel: [https://www.youtube.com/WebXR](https://www.youtube.com/c/WebXR)
   
   [![XR Tea Party: BabylonJS & WebXR](http://img.youtube.com/vi/Lg4B_H-t8fY/0.jpg)](https://www.youtube.com/watch?v=Lg4B_H-t8fY)
   
-  - YouTube **AysSomething** Channel: [bit.ly/AysSomething](https://www.youtube.com/channel/UCeo_soIgcgBSd3SVRbs_MPQ)
+  - YouTube **AysSomething** Channel: [aysegulyo.net](https://www.youtube.com/channel/UCeo_soIgcgBSd3SVRbs_MPQ)
 
-  [![Azure Custom Vision App to detect VR Headsets, HoloLens and Magic Leap](http://img.youtube.com/vi/VXD5ma2ZExw/0.jpg)](https://www.youtube.com/watch?v=VXD5ma2ZExw)
+  [![Getting started with 3D on the Web: BabylonJS vs ThreeJS code comparison](http://img.youtube.com/vi/1BbxT9_SFVw/0.jpg)](https://www.youtube.com/watch?v=1BbxT9_SFVw)
 
   - **Instagram**: https://www.instagram.com/ayssomething/
   - **Slides**: https://slides.com/aysegulyonet
