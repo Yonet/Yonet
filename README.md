@@ -14,8 +14,6 @@ Join [WebXR Meetups](https://www.meetup.com/Web-VR/) and catch up on previous [w
 
   - **Twitter**: https://twitter.com/AysSomething
   - **Medium**: https://medium.com/@aysegulyonet
-    [![Blog post: How to Create a No Code AI App with Azure Cognitive Services and Power Apps](/images/noCodeAI.gif)](https://medium.com/microsoftazure/no-code-ai-app-with-azure-cognitive-services-custom-vision-and-power-apps-ca47c019dcd0)
-
   - **Reddit**: https://www.reddit.com/r/Azure_AI_Cognitive/ and https://www.reddit.com/r/LearnXR/
   - Youtube **XR Developer** Channel: [www.youtube.com/XRDeveloper](https://www.youtube.com/c/XRDeveloper)
 
