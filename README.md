@@ -5,8 +5,7 @@
 | [![WebXR Meetup Live Stream: Creating WebXR transportation game with A-Frame](/images/workshop-01.gif)](https://youtube.com/playlist?list=PLW2iP2Rz9wsK_zzciO54t3vc5yIpxO1Jb) |  [![Blog post: How to Create a No Code AI App with Azure Cognitive Services and Power Apps](/images/noCodeAI.gif)](https://medium.com/microsoftazure/no-code-ai-app-with-azure-cognitive-services-custom-vision-and-power-apps-ca47c019dcd0) | [![Head Tracking on HoloLens](/images/headTracking.gif)](https://docs.microsoft.com/windows/mixed-reality/design/gaze-and-commit-eyes?WT.mc_id=aiml-0000-ayyonet) |
 |:-- |:-- |:-- | 
 
-- Watch 
-[Create a Serverless API with VSCode](https://aka.ms/Video/CreateServerlessAPI)
+- Watch my recent videos:
 
 | [![Create a Serverless API with VSCode](http://img.youtube.com/vi/VzML-6DClVU/0.jpg)](https://youtu.be/VzML-6DClVU) | [![Microsoft Build 2021 AI Keynote](http://img.youtube.com/vi/45we8bNPsBc/0.jpg)](https://youtu.be/45we8bNPsBc) | [![Microsoft Ignite 2021 - What's new with Cognitive Services](http://img.youtube.com/vi/PtaAKGj07G0/0.jpg)](https://youtu.be/PtaAKGj07G0) |
 |:-- |:-- |:-- | 
