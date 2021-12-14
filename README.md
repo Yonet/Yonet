@@ -7,7 +7,7 @@
 
 - Watch my recent videos:
 
-| [![Create a Serverless API with VSCode](http://img.youtube.com/vi/VzML-6DClVU/0.jpg)](https://youtu.be/VzML-6DClVU) | [![Microsoft Ignite 2021 AI Keynote Speech Demo](http://img.youtube.com/vi/DT9kW1cx0Fw/0.jpg)](https://youtu.be/DT9kW1cx0Fw) | [![Microsoft Ignite 2021 - What's new with Cognitive Services](http://img.youtube.com/vi/PtaAKGj07G0/0.jpg)](https://youtu.be/PtaAKGj07G0) |
+| [![Create a Serverless API with VSCode](http://img.youtube.com/vi/VzML-6DClVU/0.jpg)](https://youtu.be/VzML-6DClVU) | [![Microsoft Ignite 2021 AI Keynote Speech Demo](http://img.youtube.com/vi/-FAPred8j_g/0.jpg)](https://youtu.be/-FAPred8j_g) | [![Microsoft Ignite 2021 - What's new with Cognitive Services](http://img.youtube.com/vi/PtaAKGj07G0/0.jpg)](https://youtu.be/PtaAKGj07G0) |
 |:-- |:-- |:-- | 
 
 
