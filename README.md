@@ -13,19 +13,17 @@
 
 
 - Join [WebXR Meetups](https://www.meetup.com/Web-VR/) and catch up on previous [workshop videos](https://youtube.com/playlist?list=PLW2iP2Rz9wsK_zzciO54t3vc5yIpxO1Jb).
-- Read [No Code AI App with Azure Cognitive Services Custom Vision and Power Apps](https://medium.com/microsoftazure/no-code-ai-app-with-azure-cognitive-services-custom-vision-and-power-apps-ca47c019dcd0)
-- Check out Designing Holograms App(HoloLens 2) to learn Mixed Reality basics: [aka.ms/DesigningHolograms](https://www.microsoft.com/en-us/p/designing-holograms/9nxwnjklrzwd?rtc=2&WT.mc_id=aiml-0000-ayyonet)
+- Read [How to Fix Your Security Vulnerabilities with NPM Overrides](https://medium.com/microsoftazure/how-to-fix-your-security-vulnerabilities-with-npm-override-c4b5be0ab4f6)
 
-- 🌱 I’m currently learning [Unreal Engine HoloLens 2](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unreal/unreal-development-overview?WT.mc_id=aiml-0000-ayyonet) 
 <!-- development and live stream on [Microsoft Developer Twitch](https://www.twitch.tv/microsoftdeveloper) and [LearnTV](https://docs.microsoft.com/en-us/learn/tv/?WT.mc_id=aiml-0000-ayyonet) twice a week while working on a Chess App for HoloLens 2. You can find more info and the code from the stream on [30 Days of Unreal Repository](https://github.com/Yonet/30DaysOfUnrealEngine). -->
 - 👯 I’m looking to collaborate on ... WebXR at [Immersive Web Community Group](https://www.w3.org/community/immersive-web/)
 - 🤔 I’m looking for help with ... feedback on my [YouTube](https://www.youtube.com/channel/UCeo_soIgcgBSd3SVRbs_MPQ) and [other tutorials](aka.ms/MixedRealityCurriculum). Feel free to submit an issue or comment on [Reddit](https://www.reddit.com/r/LearnXR/).
-- 💬 Ask me about ...[Azure Cognitive Services](https://docs.microsoft.com/azure/cognitive-services/?WT.mc_id=aiml-0000-ayyonet), [WebXR](https://docs.microsoft.com/windows/mixed-reality/develop/web/webxr-overview?WT.mc_id=aiml-0000-ayyonet) and [Mixed Reality](https://docs.microsoft.com/windows/mixed-reality/develop/development?tabs=unity&WT.mc_id=aiml-0000-ayyonet)
+- 💬 Ask me about ...[WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)
 - 📫 How to reach me: You can find me on most social media as [@AysSomething](https://twitter.com/AysSomething) or [@Yonet](https://dev.to/yonet)
 
   - **Twitter**: https://twitter.com/AysSomething
   - **Medium**: https://medium.com/@aysegulyonet
-  - **Reddit**: https://www.reddit.com/r/Azure_AI_Cognitive/ and https://www.reddit.com/r/LearnXR/
+  - **Reddit**: https://www.reddit.com/r/WebXR/, https://www.reddit.com/r/WebVR/ and https://www.reddit.com/r/LearnXR/
 
   - Youtube **WebXR** Channel: [https://www.youtube.com/WebXR](https://www.youtube.com/c/WebXR)
   - YouTube **AysSomething** Channel: [aysegulyo.net](https://www.youtube.com/channel/UCeo_soIgcgBSd3SVRbs_MPQ)
